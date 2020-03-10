@@ -13,3 +13,5 @@ Zeven = Z0*(Z0/Zodd)
 print('C = ' + str(C))
 print('Zodd = ' + str(Zodd))
 print('Zeven = ' + str(Zeven))
+
+print('done')
